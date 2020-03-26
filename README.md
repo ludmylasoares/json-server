@@ -1,6 +1,6 @@
 # Servidor JSON
 
-<Recursos disponíveis>
+# <Recursos disponíveis>
 
 - ofertas 6
 - como-usar 6
@@ -11,4 +11,4 @@
 Posso usar GET, POST, PUT, PATCH e DELETE. As alterações não são persistentes entre as chamadas.
 
 Fonte:
-# https://github.com/ludmylasoares/json-server/blob/master/db.json
+https://github.com/ludmylasoares/json-server/blob/master/db.json
