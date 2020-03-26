@@ -2,7 +2,7 @@
 
 # Recursos disponíveis
 
-- ofertas 6
+- <a href="https://my-json-server.typicode.com/ludmylasoares/json-server/ofertas"> ofertas 6 </a>
 - como-usar 6
 - onde-fica 6
 - pedidos 0
@@ -10,7 +10,7 @@
 
 Posso usar GET, POST, PUT, PATCH e DELETE. As alterações não são persistentes entre as chamadas.
 
-Fonte:
+Fonte: </br>
 https://my-json-server.typicode.com/ </br>
 https://my-json-server.typicode.com/ludmylasoares/json-server </br>
 https://github.com/ludmylasoares/json-server/blob/master/db.json
