@@ -11,7 +11,7 @@
 Posso usar GET, POST, PUT, PATCH e DELETE. As alterações não são persistentes entre as chamadas.
 
 Fonte:
-https://my-json-server.typicode.com/
-https://my-json-server.typicode.com/ludmylasoares/json-server
+https://my-json-server.typicode.com/ </br>
+https://my-json-server.typicode.com/ludmylasoares/json-server </br>
 https://github.com/ludmylasoares/json-server/blob/master/db.json
 
