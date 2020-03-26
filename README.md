@@ -2,7 +2,7 @@
 
 # Recursos disponíveis
 
-- <a href="https://my-json-server.typicode.com/ludmylasoares/json-server/ofertas"> ofertas 6 </a>
+- <a href="https://my-json-server.typicode.com/ludmylasoares/json-server/ofertas">Ofertas</a>
 - como-usar 6
 - onde-fica 6
 - pedidos 0
