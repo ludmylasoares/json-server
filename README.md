@@ -2,7 +2,7 @@
 
 # Recursos disponíveis
 
-Banco de Dados: <a href="https://my-json-server.typicode.com/ludmylasoares/json-server/db">db.json</a>
+Banco de dados: <a href="https://my-json-server.typicode.com/ludmylasoares/json-server/db">db.json</a>
 - <a href="https://my-json-server.typicode.com/ludmylasoares/json-server/ofertas">Ofertas</a>
 - <a href="https://my-json-server.typicode.com/ludmylasoares/json-server/como-usar">Como Usar</a>
 - <a href="https://my-json-server.typicode.com/ludmylasoares/json-server/onde-fica">Onde Fica</a>
