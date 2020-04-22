@@ -188,22 +188,22 @@
 
   "pedidos": [],
 
- "banner": [
+  "banner": [
     {
       "id": 1,
-      "img": "/assets/banner/1/img_1.jpg"
+      "img": "/assets/banner/1/img1.jpg"
     },
     {
       "id": 2,
-      "img": "/assets/banner/2/img_2.jpg"
+      "img": "/assets/banner/2/img2.jpg"
     },
     {
       "id": 3,
-      "img": "/assets/banner/3/img_3.jpg"
+      "img": "/assets/banner/3/img3.jpg"
     },
     {
       "id": 4,
-      "img": "/assets/banner/4/img_4.jpg"
+      "img": "/assets/banner/4/img4.jpg"
     }
   ]
 }
