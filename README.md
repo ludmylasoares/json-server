@@ -7,8 +7,9 @@ Banco de dados: <a href="https://my-json-server.typicode.com/ludmylasoares/json-
 - <a href="https://my-json-server.typicode.com/ludmylasoares/json-server/como-usar">Como Usar</a>
 - <a href="https://my-json-server.typicode.com/ludmylasoares/json-server/onde-fica">Onde Fica</a>
 - <a href="https://my-json-server.typicode.com/ludmylasoares/json-server/pedidos">Pedidos</a>
+- <a href="https://my-json-server.typicode.com/ludmylasoares/json-server/imagens">Imagens</a>
 
-Posso usar GET, POST, PUT, PATCH e DELETE. As alterações não são persistentes entre as chamadas.
+Posso usar GET, PUT, PATCH e DELETE. As alterações não são persistentes entre as chamadas.
 
 Fonte: </br>
 https://my-json-server.typicode.com/ </br>
